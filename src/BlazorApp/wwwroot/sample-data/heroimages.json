@@ -2,12 +2,12 @@
   {
     "name": "home",
     "src": "images/banner.jpg",
-    "alt": "woman with glasses holding a tablet"
+    "alt": "rijul in nature"
   },
   {
     "name": "about",
-    "src": "images/motion-background.jpg",
-    "alt": "gray abstract background"
+    "src": "images/banner2.jpg",
+    "alt": "colorful abstract art"
   },
   {
     "name": "portfolio",
