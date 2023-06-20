@@ -1,9 +1,12 @@
 {
   "description": "I'm a Junior Computer Engineering student at Texas A&M University. I enjoy learning about many topics ranging from web design to chip design.",
   "skills": [
-    "Backend (C++, Java, Python)",
-    "Frontend (HTML, CSS, Javascript",
-    "Hardware Design (Breadboarding, Verilog, ARM Assembly)"
+    "C++/Java",
+    "Python",
+    "Web Design (HTML, CSS, JavaScript)",
+    "Breadboard",
+    "Verilog",
+    "ARM Assembly"
   ],
   "detailOrQuote": "I am excited for a new and better future for all, and I want to be as big of a part of that as I can be. I'll use my knowledge in computer engineering to better the world in the ways I can."
 }
