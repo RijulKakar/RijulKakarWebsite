@@ -1,22 +1,22 @@
 [
   {
     "title": "Music Bot for Discord",
-    "description": "A bot for Discord that can play/queue/skip/stop music from youtube, but can take many input sources as links or a description.",
-    "url": "github.com/rijulkakar/DiscordMusicBot"
+    "description": "A bot for Discord that can play/queue/skip/stop music from YouTube, but can take many input sources as links or a description.",
+    "url": "https://github.com/rijulkakar/DiscordMusicBot"
   },
   {
-    "title": "Web Development for Beginners",
-    "description": "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    "url": "https://github.com/microsoft/web-dev-for-beginners"
+    "title": "Youtube Downloader",
+    "description": "A python program that can take in a YouTube link and output mp4 or mp3 depending on user input.",
+    "url": "https://github.com/rijulkakar/YoutubeDownloader"
   },
   {
-    "title": "My Resume Site",
-    "description": "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    "url": "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website"
+    "title": "CPU in ARM Assembly and Verilog",
+    "description": "Collobarated with a team to build a working cpu with caches in ARM Assembly and Verilog.",
+    "url": "https://github.com/RijulKakar/Processor-in-ARM-Assembly"
   },
   {
-    "title": "GitHub Codespaces and github.dev",
-    "description": "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    "url": "https://www.youtube.com/watch?v=c3hHhRME_XI"
+    "title": "My Resume",
+    "description": "Click above to access my current resume.",
+    "url": "images/Rijul_Kakar_Resume.pdf"
   }
 ]
